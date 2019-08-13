@@ -1,4 +1,4 @@
-# mueller-model
+# Mueller-Model
 
 ## Goal
 
